@@ -17,14 +17,10 @@ Lenguaje de marcas: Organiza información mediante una sintaxis basada en marcas
 ## Instalación y Configuración del entorno de trabajo
 1. Instalar [VS Code](https://code.visualstudio.com)
 2. Instalar plugins
-   - HTML CSS Support
-     - (https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
-   - Life Preview
-     - (https://marketplace.visualstudio.com/items?itemName=ms.vscode.live-server)
-   - MarkDown All in one
-     - (https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)  
-   - XML - Red HAT
-     - (https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
+   - Instalar [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+   - Instalar [Life Preview](https://marketplace.visualstudio.com/items?itemName=ms.vscode.live-server)
+   - Instalar [MarkDown All in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)  
+   - Instalar [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
    
    3. instalar git
    ```bash
