@@ -40,4 +40,4 @@ Lenguaje de marcas: Organiza información mediante una sintaxis basada en marcas
 |HTML CSS Support|![HTML CSS Support](htmlc.png)|
 |Live preview| ![Live preview](livepreview.png)|
 |Markdown|![Markdown](markdown.png)|
-|XML|![XML](image/XML.png)|
+|XML|![XML](xml.png)|
