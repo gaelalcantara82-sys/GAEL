@@ -37,7 +37,7 @@ Lenguaje de marcas: Organiza información mediante una sintaxis basada en marcas
 
 |Plugin|Imagen|uso|
 |------|------|---|
-|HTML CSS Support|![HTML CSS Support](htmlc.png)|
-|Live preview| ![Live preview](livepreview.png)|
-|Markdown|![Markdown](markdown.png)|
-|XML|![XML](xml.png)|
+|HTML CSS Support|![HTML CSS Support](htmlc.png)|Aporta ayuda de sintaxis y autocompleción para CSS|
+|Live preview| ![Live preview](livepreview.png)|Previsualizar de código HTML en tiempo real|
+|Markdown|![Markdown](markdown.png)|Previsualizar de código MarkDown en tiempo real|
+|XML|![XML](xml.png)|Aporta ayuda de sintaxis y autocompleción para XML|
