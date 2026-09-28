@@ -18,7 +18,7 @@ Lenguaje de marcas: Organiza información mediante una sintaxis basada en marcas
 1. Instalar [VS Code](https://code.visualstudio.com)
 2. Instalar plugins
    - Instalar [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
-   - Instalar [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms.vscode.live-server)
+   - Instalar [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
    - Instalar [MarkDown All in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)  
    - Instalar [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
    
