@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mapa de imágenes</title>
+</head>
+<body>
+
+    <h1>Mapa de imágenes</h1>
+
+    <img src="../imagenes/Primer plano de personaje caricaturesco.png"
+         alt="Personaje"
+         width="200"
+         height="200"
+         usemap="#mapa">
+
+    <map name="mapa">
+        <area shape="rect"
+              coords="0,0,200,200"
+              href="imagen_1.html"
+              alt="Zona clicable">
+    </map>
+
+    <img src="../imagenes/jeff.webp"
+            alt="Personaje"
+            width="200"
+            height="200"
+            usemap="#mapa2">
+    <map name="mapa2">
+        <area shape="circle"
+              coords="250,50,50"
+              href="imagen_2.html"
+              alt="Zona clicable">
+    </map>
+    
+
+</body>
+</html>
